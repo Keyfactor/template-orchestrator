@@ -14,3 +14,4 @@ C:\Users\jvanwanzeele\source\repos\OrchestratorTemplate\OrchestratorTemplate\obj
 C:\Users\jvanwanzeele\source\repos\OrchestratorTemplate\OrchestratorTemplate\obj\Debug\netcoreapp3.1\OrchestratorTemplate.csproj.CoreCompileInputs.cache
 C:\Users\jvanwanzeele\source\repos\OrchestratorTemplate\OrchestratorTemplate\obj\Debug\netcoreapp3.1\Keyfactor.Integrations.Orchestrator.Template.dll
 C:\Users\jvanwanzeele\source\repos\OrchestratorTemplate\OrchestratorTemplate\obj\Debug\netcoreapp3.1\Keyfactor.Integrations.Orchestrator.Template.pdb
+C:\Users\jvanwanzeele\source\repos\OrchestratorTemplate\OrchestratorTemplate\obj\Debug\netcoreapp3.1\OrchestratorTemplate.csprojAssemblyReference.cache
