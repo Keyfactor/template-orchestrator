@@ -1,0 +1,16 @@
+C:\Users\jvanwanzeele\source\repos\OrchestratorStarter\OrchestratorStarter\obj\Debug\netcoreapp3.1\OrchestratorTemplate.AssemblyInfoInputs.cache
+C:\Users\jvanwanzeele\source\repos\OrchestratorStarter\OrchestratorStarter\obj\Debug\netcoreapp3.1\OrchestratorTemplate.AssemblyInfo.cs
+C:\Users\jvanwanzeele\source\repos\OrchestratorStarter\OrchestratorStarter\obj\Debug\netcoreapp3.1\OrchestratorTemplate.csproj.CoreCompileInputs.cache
+C:\Users\jvanwanzeele\source\repos\OrchestratorStarter\OrchestratorStarter\bin\Debug\netcoreapp3.1\Keyfactor.Integrations.Orchestrator.Template.deps.json
+C:\Users\jvanwanzeele\source\repos\OrchestratorStarter\OrchestratorStarter\bin\Debug\netcoreapp3.1\Keyfactor.Integrations.Orchestrator.Template.dll
+C:\Users\jvanwanzeele\source\repos\OrchestratorStarter\OrchestratorStarter\bin\Debug\netcoreapp3.1\Keyfactor.Integrations.Orchestrator.Template.pdb
+C:\Users\jvanwanzeele\source\repos\OrchestratorStarter\OrchestratorStarter\obj\Debug\netcoreapp3.1\Keyfactor.Integrations.Orchestrator.Template.dll
+C:\Users\jvanwanzeele\source\repos\OrchestratorStarter\OrchestratorStarter\obj\Debug\netcoreapp3.1\Keyfactor.Integrations.Orchestrator.Template.pdb
+C:\Users\jvanwanzeele\source\repos\OrchestratorTemplate\OrchestratorTemplate\bin\Debug\netcoreapp3.1\Keyfactor.Integrations.Orchestrator.Template.deps.json
+C:\Users\jvanwanzeele\source\repos\OrchestratorTemplate\OrchestratorTemplate\bin\Debug\netcoreapp3.1\Keyfactor.Integrations.Orchestrator.Template.dll
+C:\Users\jvanwanzeele\source\repos\OrchestratorTemplate\OrchestratorTemplate\bin\Debug\netcoreapp3.1\Keyfactor.Integrations.Orchestrator.Template.pdb
+C:\Users\jvanwanzeele\source\repos\OrchestratorTemplate\OrchestratorTemplate\obj\Debug\netcoreapp3.1\OrchestratorTemplate.AssemblyInfoInputs.cache
+C:\Users\jvanwanzeele\source\repos\OrchestratorTemplate\OrchestratorTemplate\obj\Debug\netcoreapp3.1\OrchestratorTemplate.AssemblyInfo.cs
+C:\Users\jvanwanzeele\source\repos\OrchestratorTemplate\OrchestratorTemplate\obj\Debug\netcoreapp3.1\OrchestratorTemplate.csproj.CoreCompileInputs.cache
+C:\Users\jvanwanzeele\source\repos\OrchestratorTemplate\OrchestratorTemplate\obj\Debug\netcoreapp3.1\Keyfactor.Integrations.Orchestrator.Template.dll
+C:\Users\jvanwanzeele\source\repos\OrchestratorTemplate\OrchestratorTemplate\obj\Debug\netcoreapp3.1\Keyfactor.Integrations.Orchestrator.Template.pdb

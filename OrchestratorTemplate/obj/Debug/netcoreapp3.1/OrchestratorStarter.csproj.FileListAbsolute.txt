@@ -1,0 +1,9 @@
+C:\Users\jvanwanzeele\source\repos\OrchestratorStarter\OrchestratorStarter\bin\Debug\netcoreapp3.1\OrchestratorStarter.deps.json
+C:\Users\jvanwanzeele\source\repos\OrchestratorStarter\OrchestratorStarter\bin\Debug\netcoreapp3.1\OrchestratorStarter.dll
+C:\Users\jvanwanzeele\source\repos\OrchestratorStarter\OrchestratorStarter\bin\Debug\netcoreapp3.1\OrchestratorStarter.pdb
+C:\Users\jvanwanzeele\source\repos\OrchestratorStarter\OrchestratorStarter\obj\Debug\netcoreapp3.1\OrchestratorStarter.csprojAssemblyReference.cache
+C:\Users\jvanwanzeele\source\repos\OrchestratorStarter\OrchestratorStarter\obj\Debug\netcoreapp3.1\OrchestratorStarter.AssemblyInfoInputs.cache
+C:\Users\jvanwanzeele\source\repos\OrchestratorStarter\OrchestratorStarter\obj\Debug\netcoreapp3.1\OrchestratorStarter.AssemblyInfo.cs
+C:\Users\jvanwanzeele\source\repos\OrchestratorStarter\OrchestratorStarter\obj\Debug\netcoreapp3.1\OrchestratorStarter.csproj.CoreCompileInputs.cache
+C:\Users\jvanwanzeele\source\repos\OrchestratorStarter\OrchestratorStarter\obj\Debug\netcoreapp3.1\OrchestratorStarter.dll
+C:\Users\jvanwanzeele\source\repos\OrchestratorStarter\OrchestratorStarter\obj\Debug\netcoreapp3.1\OrchestratorStarter.pdb
