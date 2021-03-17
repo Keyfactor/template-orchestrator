@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h0rbCWwD1YK5kFG7CFrp5uO7sxUutMgMEVOw+PLqkmt4nhc7de6hXd5XX8lZ51wMOc4a5BzV12P8g7RL2pPPZw==",
+  "dgSpecHash": "jOFd/WwKDU1FhqkRmlEyXcCpSqnQ3futFXosObECzHAYyw9eya0Pcc4SyoxnrHuQCqFu7HdAQMDyjBpwUxe7dg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jvanwanzeele\\source\\repos\\OrchestratorTemplate\\OrchestratorTemplate\\OrchestratorTemplate.csproj",
+  "projectFilePath": "C:\\Users\\jvanwanzeele\\Source\\Repos\\template-orchestrator\\OrchestratorTemplate\\OrchestratorTemplate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jvanwanzeele\\.nuget\\packages\\common.logging\\3.4.1\\common.logging.3.4.1.nupkg.sha512",
     "C:\\Users\\jvanwanzeele\\.nuget\\packages\\common.logging.core\\3.4.1\\common.logging.core.3.4.1.nupkg.sha512",

@@ -6858,11 +6858,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jvanwanzeele\\source\\repos\\OrchestratorTemplate\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\jvanwanzeele\\Source\\Repos\\template-orchestrator\\Test\\Test.csproj",
       "projectName": "Keyfactor.Integrations.Orchestrator.Template.Test",
-      "projectPath": "C:\\Users\\jvanwanzeele\\source\\repos\\OrchestratorTemplate\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\jvanwanzeele\\Source\\Repos\\template-orchestrator\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\jvanwanzeele\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jvanwanzeele\\source\\repos\\OrchestratorTemplate\\Test\\obj\\",
+      "outputPath": "C:\\Users\\jvanwanzeele\\Source\\Repos\\template-orchestrator\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jvanwanzeele\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6880,8 +6880,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\jvanwanzeele\\source\\repos\\OrchestratorTemplate\\OrchestratorTemplate\\OrchestratorTemplate.csproj": {
-              "projectPath": "C:\\Users\\jvanwanzeele\\source\\repos\\OrchestratorTemplate\\OrchestratorTemplate\\OrchestratorTemplate.csproj"
+            "C:\\Users\\jvanwanzeele\\Source\\Repos\\template-orchestrator\\OrchestratorTemplate\\OrchestratorTemplate.csproj": {
+              "projectPath": "C:\\Users\\jvanwanzeele\\Source\\Repos\\template-orchestrator\\OrchestratorTemplate\\OrchestratorTemplate.csproj"
             }
           }
         }

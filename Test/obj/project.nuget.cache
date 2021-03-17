@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mJuwEdoI4xZ2ROTgVn0b3VTg/lpO5pkMG3QBWAlwOpBJZHRypUyGNNHsOHZVFJfVrWwwMYkZsIIwbV4e4O0IDA==",
+  "dgSpecHash": "WB6f96y5OibdXHJkYv4yIor8bShPaU2Z3OdDsWZrxbhP+ECVkNa07tZ3EGWN9+6A81cbhMleGcvAZ7ZSkNzSfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jvanwanzeele\\source\\repos\\OrchestratorTemplate\\Test\\Test.csproj",
+  "projectFilePath": "C:\\Users\\jvanwanzeele\\Source\\Repos\\template-orchestrator\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jvanwanzeele\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\jvanwanzeele\\.nuget\\packages\\common.logging\\3.4.1\\common.logging.3.4.1.nupkg.sha512",

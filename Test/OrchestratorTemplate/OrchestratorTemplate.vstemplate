@@ -1,0 +1,30 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+	<TemplateData>
+		<Name>$ext_safeprojectname$</Name>
+		<Description>Scaffolding for a Keyfactor Orchestrator Integration</Description>
+		<ProjectType>CSharp</ProjectType>
+		<ProjectSubType>
+		</ProjectSubType>
+		<SortOrder>1000</SortOrder>
+		<CreateNewFolder>true</CreateNewFolder>
+		<DefaultName>$ext_safeprojectname$</DefaultName>
+		<ProvideDefaultName>false</ProvideDefaultName>
+		<LocationField>Enabled</LocationField>
+		<EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+		<CreateInPlace>true</CreateInPlace>
+		<Hidden>true</Hidden>
+	</TemplateData>
+	<TemplateContent>
+		<Project TargetFileName="$ext_safeprojectname$.csproj" File="OrchestratorTemplate.csproj" ReplaceParameters="true">
+			<Folder Name="Jobs" TargetFolderName="Jobs">
+				<ProjectItem ReplaceParameters="true" TargetFileName="Discovery.cs">Discovery.cs</ProjectItem>
+				<ProjectItem ReplaceParameters="true" TargetFileName="Inventory.cs">Inventory.cs</ProjectItem>
+				<ProjectItem ReplaceParameters="true" TargetFileName="Management.cs">Management.cs</ProjectItem>
+				<ProjectItem ReplaceParameters="true" TargetFileName="OrchestratorJob.cs">OrchestratorJob.cs</ProjectItem>
+				<ProjectItem ReplaceParameters="true" TargetFileName="Reenrollment.cs">Reenrollment.cs</ProjectItem>
+			</Folder>
+			<ProjectItem ReplaceParameters="true" TargetFileName="Constants.cs">Constants.cs</ProjectItem>
+			<ProjectItem ReplaceParameters="true" TargetFileName="JobAttribute.cs">JobAttribute.cs</ProjectItem>
+		</Project>
+	</TemplateContent>
+</VSTemplate>
