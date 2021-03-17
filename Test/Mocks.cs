@@ -13,7 +13,7 @@ using Keyfactor.Platform.Extensions.Agents.Delegates;
 using Moq;
 
 [assembly: InternalsVisibleTo("OrchestratorStarter")]
-namespace Keyfactor.Integrations.Orchestrator.Test
+namespace $ext_safeprojectname$.Test
 {
     public static class Mocks
     {
@@ -33,7 +33,7 @@ namespace Keyfactor.Integrations.Orchestrator.Test
                 StorePath = "http://test.vault",
                 Storetype = 1,
             };
-            var ajJob = new AnyJobJobInfo { OperationType = Platform.Extensions.Agents.Enums.AnyJobOperationType.Create, Alias = "testJob", JobId = Guid.NewGuid(), JobTypeId = Guid.NewGuid(), };
+            var ajJob = new AnyJobJobInfo { OperationType = Keyfactor.Platform.Extensions.Agents.Enums.AnyJobOperationType.Create, Alias = "testJob", JobId = Guid.NewGuid(), JobTypeId = Guid.NewGuid(), };
             var ajServer = new AnyJobServerInfo { Username = "testUsername", Password = "testPassword", UseSSL = true };
             var ajc = new AnyJobConfigInfo()
             {

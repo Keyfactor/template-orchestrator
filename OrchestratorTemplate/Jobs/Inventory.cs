@@ -12,7 +12,7 @@ using Keyfactor.Platform.Extensions.Agents;
 using Keyfactor.Platform.Extensions.Agents.Delegates;
 using Keyfactor.Platform.Extensions.Agents.Interfaces;
 
-namespace Keyfactor.Integrations.Orchestrator.Template.Jobs
+namespace $ext_safeprojectname$.Jobs
 {
     [Job(JobTypes.INVENTORY)]  //Setting to "Inventory" makes this the entry point for all Inventory jobs
     public class Inventory : OrchestratorJob, IAgentJobExtension

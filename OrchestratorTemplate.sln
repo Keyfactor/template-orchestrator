@@ -5,12 +5,9 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrchestratorTemplate", "OrchestratorTemplate\OrchestratorTemplate.csproj", "{64723DE7-E7AB-46F9-8494-DC96A8567E6A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{111DDBAD-7F0A-4902-86D0-1B055E30988E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrchestratorTemplateTests", "Test\OrchestratorTemplateTests.csproj", "{111DDBAD-7F0A-4902-86D0-1B055E30988E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F3D46C15-5971-40E2-B0B3-E849B76FFC13}"
-	ProjectSection(SolutionItems) = preProject
-		.gitignore = .gitignore
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

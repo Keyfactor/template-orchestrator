@@ -6,12 +6,12 @@
 // and limitations under the License.
 
 using FluentAssertions;
-using Keyfactor.Integrations.Orchestrator.Template.Jobs;
+using $ext_safeprojectname$.Jobs;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
-using Mocks = Keyfactor.Integrations.Orchestrator.Test.Mocks;
+using Mocks = $ext_safeprojectname$.Test.Mocks;
 
-namespace Keyfactor.OrchestratorTemplate.Test
+namespace $ext_safeprojectname$.Test
 {
     [TestClass]
     public class ReenrollmentTests

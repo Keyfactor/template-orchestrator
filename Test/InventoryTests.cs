@@ -7,12 +7,12 @@
 
 using System.Collections.Generic;
 using FluentAssertions;
-using Keyfactor.Integrations.Orchestrator.Template.Jobs;
+using $ext_safeprojectname$.Jobs;
 using Keyfactor.Platform.Extensions.Agents;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 
-namespace Keyfactor.Integrations.Orchestrator.Test
+namespace $ext_safeprojectname$.Test
 {
     [TestClass]
     public class InventoryTests

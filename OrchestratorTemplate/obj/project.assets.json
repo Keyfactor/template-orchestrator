@@ -2621,11 +2621,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jvanwanzeele\\Source\\Repos\\template-orchestrator\\OrchestratorTemplate\\OrchestratorTemplate.csproj",
+      "projectUniqueName": "C:\\Users\\jvanwanzeele\\source\\repos\\template-orchestrator\\OrchestratorTemplate\\OrchestratorTemplate.csproj",
       "projectName": "Keyfactor.Integrations.Orchestrator.Template",
-      "projectPath": "C:\\Users\\jvanwanzeele\\Source\\Repos\\template-orchestrator\\OrchestratorTemplate\\OrchestratorTemplate.csproj",
+      "projectPath": "C:\\Users\\jvanwanzeele\\source\\repos\\template-orchestrator\\OrchestratorTemplate\\OrchestratorTemplate.csproj",
       "packagesPath": "C:\\Users\\jvanwanzeele\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jvanwanzeele\\Source\\Repos\\template-orchestrator\\OrchestratorTemplate\\obj\\",
+      "outputPath": "C:\\Users\\jvanwanzeele\\source\\repos\\template-orchestrator\\OrchestratorTemplate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jvanwanzeele\\AppData\\Roaming\\NuGet\\NuGet.Config",

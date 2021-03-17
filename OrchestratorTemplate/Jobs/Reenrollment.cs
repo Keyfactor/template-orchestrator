@@ -11,7 +11,7 @@ using Keyfactor.Platform.Extensions.Agents;
 using Keyfactor.Platform.Extensions.Agents.Delegates;
 using Keyfactor.Platform.Extensions.Agents.Interfaces;
 
-namespace Keyfactor.Integrations.Orchestrator.Template.Jobs
+namespace $ext_safeprojectname$.Jobs
 {
     // The Reenrollment class implementes IAgentJobExtension and is meant to:
     //  1) Generate a new public/private keypair locally

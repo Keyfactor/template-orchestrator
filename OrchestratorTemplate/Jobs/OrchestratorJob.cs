@@ -13,7 +13,7 @@ using Keyfactor.Platform.Extensions.Agents;
 using Keyfactor.Platform.Extensions.Agents.Delegates;
 using Keyfactor.Platform.Extensions.Agents.Interfaces;
 
-namespace Keyfactor.Integrations.Orchestrator.Template.Jobs
+namespace $ext_safeprojectname$.Jobs
 {
     public abstract class OrchestratorJob : LoggingClientBase, IAgentJobExtension
     {

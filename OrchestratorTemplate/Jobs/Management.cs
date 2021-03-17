@@ -12,7 +12,7 @@ using Keyfactor.Platform.Extensions.Agents.Delegates;
 using Keyfactor.Platform.Extensions.Agents.Enums;
 using Keyfactor.Platform.Extensions.Agents.Interfaces;
 
-namespace Keyfactor.Integrations.Orchestrator.Template.Jobs
+namespace $ext_safeprojectname$.Jobs
 {
     [Job(JobTypes.MANAGEMENT)]  //Setting to "Management" makes this the entry point for all Management jobs
     public class Management : OrchestratorJob, IAgentJobExtension

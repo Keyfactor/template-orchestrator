@@ -8,7 +8,7 @@
 
 using System;
 
-namespace Keyfactor.Integrations.Orchestrator.Template
+namespace $ext_safeprojectname$
 {
     [AttributeUsage(AttributeTargets.Class, Inherited = false)]
     public class JobAttribute : Attribute

@@ -6,11 +6,11 @@
 // and limitations under the License.
 
 
-namespace Keyfactor.Integrations.Orchestrator.Template
+namespace $ext_safeprojectname$
 {
     static class OrchestratorConstants
     {
-        public const string STORE_TYPE_NAME = "<STORE TYPE>";
+        public const string STORE_TYPE_NAME = "$storeTypeName";
     }
 
     static class JobTypes

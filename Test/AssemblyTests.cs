@@ -14,7 +14,7 @@ using FluentAssertions;
 using Keyfactor.Platform.Extensions.Agents.Interfaces;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Keyfactor.Integrations.Orchestrator.Test
+namespace $ext_safeprojectname$.Test
 {
     [TestClass]
     public class AssemblyTests

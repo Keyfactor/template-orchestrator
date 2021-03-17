@@ -6,13 +6,13 @@
 // and limitations under the License.
 
 using FluentAssertions;
-using Keyfactor.Integrations.Orchestrator.Template.Jobs;
+using $ext_safeprojectname$.Jobs;
 using Keyfactor.Platform.Extensions.Agents.Enums;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using Moq.Protected;
 
-namespace Keyfactor.Integrations.Orchestrator.Test
+namespace $ext_safeprojectname$.Test
 {
     [TestClass]
     public class ManagementTests
